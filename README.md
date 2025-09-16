@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-ragab0&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-ragab0" /> </p>
 
-- 🔭 I’m currently working on **Flutter Project**
-
-- 🌱 I’m currently learning **Mobile Development**
+- 🔭 I’m currently working on NewUlm
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 👨‍💻 Some of my designs are available at [Behance](https://www.behance.net/ahmedragab101)
 
-- 💬 Ask me about **Flutter , Graphic Design , UI&UX Design**
+- 💬 Ask me about **Flutter , UI&UX Design**
 
 - 📫 How to reach me **ahmed.ragab.hassan10@gmail.com**
 
