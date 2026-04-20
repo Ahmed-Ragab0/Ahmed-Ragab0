@@ -199,20 +199,18 @@ class AhmedRagab extends FlutterDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ragab0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragab0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ragab0&theme=tokyonight&hide_border=true" height="170"/>
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ragab0&theme=tokyo-night&hide_border=true"/>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ragab0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ragab0&theme=tokyonight&hide_border=true"/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Ragab0&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Ragab0&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
 </div>
 
 ---
