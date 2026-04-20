@@ -194,15 +194,6 @@ class AhmedRagab extends FlutterDeveloper {
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ragab0&theme=tokyonight" />
-</p>
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:85C1E9,50:2E86C1,100:1A5276&height=100&section=footer" width="100%"/>
 </div>
