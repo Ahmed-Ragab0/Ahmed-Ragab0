@@ -6,13 +6,16 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ahmed-ragab">
+  <a href="https://www.linkedin.com/in/ahmed-ragab-a3253119b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.behance.net/ahmedragab101">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
   </a>
   <a href="mailto:ahmed.ragab.hassan10@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ahmed-ragab">
+  <a href="https://github.com/Ahmed-Ragab0">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://wa.me/201279170899">
@@ -40,9 +43,10 @@ class AhmedRagab extends FlutterDeveloper {
   final String email      = "ahmed.ragab.hassan10@gmail.com";
 
   final List<String> currentWork = [
-    "🏥 Building UlmCare & UlmCare Connect — Healthcare Ecosystem",
-    "🚗 Developing Paxi Go & Paxi Driver — Ride-Hailing Platform",
-    "📐 Applying Clean Architecture on every project",
+  "🏥 Building UlmCare & UlmCare Connect — Healthcare Ecosystem",
+  "🚗 Developing Paxi Go & Paxi Driver — Ride-Hailing Platform",
+  "🧩 Building backend services using Django & REST APIs",
+  "📐 Applying Clean Architecture on every project",
   ];
 
   final List<String> passions = [
@@ -76,7 +80,8 @@ class AhmedRagab extends FlutterDeveloper {
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-2ECC71?style=for-the-badge)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Hive](https://img.shields.io/badge/Hive-FF7043?style=for-the-badge)
 
 **Design & Tools**
@@ -194,12 +199,12 @@ class AhmedRagab extends FlutterDeveloper {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmed-ragab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-ragab&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ragab0&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ragab0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ragab&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Ragab0&theme=tokyonight&hide_border=true" height="170"/>
 </div>
 
 ---
@@ -207,7 +212,7 @@ class AhmedRagab extends FlutterDeveloper {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed-ragab&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahmed-Ragab0&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </div>
 
 ---
